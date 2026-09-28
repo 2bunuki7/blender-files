@@ -1,2 +1,3 @@
-# blender-files
-Projects ive been wroking on
+This is a collection of blender projects im working on:
+
+donut.blend: first project made around july 2026, made watching a tutorial on youtube
